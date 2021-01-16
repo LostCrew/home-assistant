@@ -1,2 +1,3 @@
-# home-assistanat
+# home-assistant
+
 Home Assistant config and shenanigans
